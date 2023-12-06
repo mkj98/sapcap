@@ -1,0 +1,4 @@
+ID,title,author_ID,stock,image,price,descr,category_ID,weight,length,width,height
+0792ad29-b243-4cdf-864c-718932633b03,The Great Gatsby,1c68e5c3-13c2-4cef-92c8-72d8c30c4c36,100,gatsby.jpg,25.99,A classic novel about the American Dream,5f41b719-0ab9-4dbb-9a74-114d01ea50ce,0.8,8.5,5.5,1.2
+5980ed3d-49f3-4e57-84fa-2d27e3a3be07,To Kill a Mockingbird,3decd816-a0e3-4280-9e61-9eb29f4c41bc,75,mockingbird.jpg,19.99,A story of racial injustice in the American South,5f41b719-0ab9-4dbb-9a74-114d01ea50ce,0.9,9.0,6.0,1.5
+55f78988-72f9-43b9-99b7-51c86e903b55,1984,49301f93-c137-4686-ae3f-6f2473f17ef3,120,1984.jpg,15.99,A dystopian novel by George Orwell,5f41b719-0ab9-4dbb-9a74-114d01ea50ce,0.7,7.5,5.0,1.0
